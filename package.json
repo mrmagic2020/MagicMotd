@@ -1,0 +1,22 @@
+{
+  "name": "magicmotd",
+  "version": "1.0.0",
+  "description": "motd in jpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrmagic2020/MagicMotd.git"
+  },
+  "keywords": [
+    "motd"
+  ],
+  "author": "Mr. Magic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrmagic2020/MagicMotd/issues"
+  },
+  "homepage": "https://github.com/mrmagic2020/MagicMotd#readme"
+}
