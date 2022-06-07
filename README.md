@@ -1,0 +1,2 @@
+# MagicMotd
+motd in jpg! 
